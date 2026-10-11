@@ -296,7 +296,7 @@ The pipeline returns both the generated answer and the retrieved source informat
 The current RAG pipeline uses:
 
 ```python
-top_k = 2
+top_k = 3
 ```
 
 and:
